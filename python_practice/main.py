@@ -29,10 +29,11 @@ def Ta(a, b):
 
 Ta(1, 2)
 
+
 @decorator.D("hunagtao")
 def Tb(a, b):
     print "a+b=", a + b
 
 print "start"
 
-Tb(2,4)
+Tb(2, 4)

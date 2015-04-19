@@ -3,5 +3,3 @@ import decorator
 
 all.append(2)
 print "helle world"
-
-

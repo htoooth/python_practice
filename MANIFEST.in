@@ -1,0 +1,3 @@
+include COPYING.MIT
+include README.rst
+recursive-include docs *.js *.html *.png
