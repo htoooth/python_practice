@@ -1,4 +1,5 @@
 from myLib import all, Test, decorator
+import muliimportpy
 
 all.append(1)
 
